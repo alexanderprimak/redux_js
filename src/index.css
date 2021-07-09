@@ -1,0 +1,35 @@
+
+.counter_wrapper {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   align-items: center;
+   transform: translateY(200%);
+}
+
+.container_for_btn_input {
+   background-color: gray;
+   width: 20%;
+   margin-right: 100px;
+   padding:20px;
+   border-radius: 10px;
+}
+
+#valueCounter {
+    font-size: 40px;
+}
+
+#btns_change_counter {
+    margin-bottom: 20px;
+}
+
+.input_increase , .input_decmase {
+    background-color:yellow;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input_increase {
+    margin-bottom: 10px;
+}
